@@ -1,0 +1,1 @@
+Thanks for getting the Anderson Firearms Model 5.56 Hellfire. To get started, open the file "INSTRUCTIONS_MANUAL.pdf"

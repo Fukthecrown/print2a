@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Front Connector Pin.STL" source="original">
+    <mtime>1536147200</mtime>
+    <size>172084</size>
+    <md5>1da86c0cc1c65a5054c05983d736b043</md5>
+    <crc32>86d25ada</crc32>
+    <sha1>8d8fd4edabd5aa0ac4fa46cbeaf040e91c9510c9</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="Linkage Plastic.STL" source="original">
+    <mtime>1536147230</mtime>
+    <size>659784</size>
+    <md5>2bd67eaddf4b9439218427b48de61c1f</md5>
+    <crc32>42dee714</crc32>
+    <sha1>e8e006060d4c0c9d3c984bfa407e0fbb9b8088c9</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="Linkage.STL" source="original">
+    <mtime>1536147235</mtime>
+    <size>557784</size>
+    <md5>0b30ca632f3fa6a2cb121316b91571f9</md5>
+    <crc32>06f27059</crc32>
+    <sha1>fb2f79964f9c6143e4dbaa216a36cdff57a8e9af</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="Low Mod 9mm Mag Release.STL" source="original">
+    <mtime>1536147240</mtime>
+    <size>32584</size>
+    <md5>9f0e00ffadaff3c3fa8b47b9315c8240</md5>
+    <crc32>02e3fef7</crc32>
+    <sha1>740c9ac2e302f0627eaf5540c5085fd19fec0347</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="Low Mod 9mm Reinf.STL" source="original">
+    <mtime>1536147244</mtime>
+    <size>93884</size>
+    <md5>ac1c7f5510f00be1dda6f8eecbf7aa63</md5>
+    <crc32>8782f552</crc32>
+    <sha1>717e5d16308b548e414c793e72bd7f0a1171d16e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="Low Mod 9mm.STL" source="original">
+    <mtime>1536147251</mtime>
+    <size>1761884</size>
+    <md5>5a707ab516c91396debe8f388aa39854</md5>
+    <crc32>a6f66625</crc32>
+    <sha1>2aef9968dba020869fbb2ad41f02b41768944c2a</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="LowMod9mm_201809_archive.torrent" source="metadata">
+    <btih>03abcb7f8407d64c065cd7fd13e675366ecf0db2</btih>
+    <mtime>1536147606</mtime>
+    <size>2828</size>
+    <md5>f84792636d6386cf6e5ec1e14e8252e7</md5>
+    <crc32>fed52f3e</crc32>
+    <sha1>587d8e409da3ed1df98d842226b2fabe61be6f96</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="LowMod9mm_201809_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c71cb921bec1a61f7c30735891735162</md5>
+  </file>
+  <file name="LowMod9mm_201809_meta.sqlite" source="original">
+    <mtime>1536147266</mtime>
+    <size>20480</size>
+    <format>Metadata</format>
+    <md5>7f7fc403d5cd265e9fbf76a453ac4e54</md5>
+    <crc32>bd77917d</crc32>
+    <sha1>a542297061c12342f60e8ed7c9663c279e5be022</sha1>
+  </file>
+  <file name="LowMod9mm_201809_meta.xml" source="original">
+    <mtime>1536147602</mtime>
+    <size>897</size>
+    <format>Metadata</format>
+    <md5>6ca558ee81b7db8bdf935ae3229c68cc</md5>
+    <crc32>3f1ece67</crc32>
+    <sha1>5041b1a0ad90a5e3e1d6488532562e57f3be996c</sha1>
+  </file>
+  <file name="Rear Connector Pin.STL" source="original">
+    <mtime>1536147255</mtime>
+    <size>172084</size>
+    <md5>33187ead810fca2341a3eb0110fff2d5</md5>
+    <crc32>6a024120</crc32>
+    <sha1>f8346c116177cd88e0d04b7cdafa9c08a45e6f7e</sha1>
+    <format>Unknown</format>
+  </file>
+</files>

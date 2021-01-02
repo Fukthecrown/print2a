@@ -1,0 +1,5 @@
+If you are having adhesion issues with your PETG or PLA even after leveling,
+
+Wash your glass bed (Can be a pane of mirror glass) with soap and watter, then apply a salt water solution with a paper towel, wipe untill only the salt crystals remain
+
+Try the included profile if you are having trouble tuning your settings (The profile is for a Creality Ender 3)

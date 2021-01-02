@@ -1,0 +1,60 @@
+---Plastikov "Hand-fit" Spec Rail Writeup---
+
+This writeup is simply a summary of the video found here: https://lbry.tv/@Ivan's_CAD_Streams:c/Plastikov-hand-fit-demo:6
+
+--Step 1: Add hammer cutouts (if necessary)--
+
+WHAT you are cutting: The lower rail on both left and right rails.
+WHY you are cutting: If your rails don't have these cutouts, the hammer will hit the rails and prevent the gun from cycling.
+
+With the rails held into the receiver, cock the hammer backwards while pushing the hammer towards the rail you are checking. The hammer should not hit the rail at all.
+If the hammer hits the rail, make a mark where the hammer is hitting the rail using a sharpie (this doesn't have to be very accurate).
+With the initial mark made on each rail, make another mark 1/2in ahead of and behind the first mark - this should leave a 1in long section you've marked out.
+Use a dremel tool or hacksaw to cut out the section between the two marks. You only need to cut as deep as the top rail is wide - refer to the video.
+
+--Step 2: Bend the ejector upward--
+
+WHAT you are bending: The ejector fin on the lower rail of the left side rails.
+WHY you are bending: The upward bend ensures that the bolt won't get hung up on the ejector and that the ejector will function more reliably.
+
+Clamp your ejector fin in a vise (or get a pair of pliers if you have really strong hands). Ensure that only the fin is in the vise (everything that sticks out past the lower rail).
+Using a hammer, another pair of pliers, or another tool you deem useful, bend the rails so that the ejector fin gets bend upwards (relative to how the rails sit in the receiver).
+This bend will end up being only a few degrees, and can be fine-tuned later - I generally bend the rails until the top rail touches the top of the vise (the ejector bends upwards and the rails rotate as you bend).
+
+--Step 3: Profile the ejector--
+
+WHAT you are profiling: The ejector fin on the lower rail of the left side rails.
+WHY you are profiling: To ensure the bolt can pass smoothly over the ejector fin and won't get hung up on it.
+
+This step is best understood from the video - refer to it for what exactly to do.
+Use a dremel tool or hacksaw to add an angled slant to the back of the ejector fin (see video).
+Use a dremel tool to apply a chamfer (angled edge) to the rear side of the ejector fin (see video).
+
+--Step 4: Trim the ejector--
+
+WHAT you are trimming: The ejector fin on the lower rail of the left side rails.
+WHY you are trimming: To ensure a close, precise fit between the ejector fin and bolt.
+
+This step is very important, and you should take care to follow these directions closely.
+Install the bolt, carrier, and rails into the gun. As you slide the carrier forward, the bolt will hit likely hit the ejector.
+Ensure that the bolt is held all the way forward in the carrier (pull the bolt forward by hand) and slowly push the carrier forward.
+Take note of where the cutout in the bolt that is meant to fit over the ejector is hitting the ejector - you will need to trim the ejector fin so that the bolt can just barely pass it.
+Remove the rails and use a dremel tool, hacksaw, or metal file to remove JUST A LITTLE material from the ejector fin - you can always remove more material if the bolt still won't fit past, but you can't put material back.
+If you made a mark on the ejector where the bolt is hitting it, trim down on the ejector fin to a little short of your mark - if you go all the way up to your mark, you risk removing too much material.
+Once you have removed just a little material, reinstall the rails and carrier and check if the bolt can pass the ejector fin - if it is really tight/hard to get the bolt to move past the ejector, you can remove just a tiny bit more from the ejector fin.
+Once the bolt can move past the ejector fin without getting stuck on the ejector fin, you are ready to move on to the next step.
+
+--Step 5: Adjust Rail Gap--
+
+WHAT you are adjusting: The gap between the top and bottom rail on the right side rails, at the front of the rail unit.
+WHY you are adjusting: If this gap is left as-is, the bolt will sometimes not align properly with the front trunnion and the gun will fail to go into batery.
+
+This step can be a little tricky to get right, but with attention to detail, it can be quickly done.
+Take your right side rail, and identify which side is the front (if you hold the rail like it sits in the gun, the front is the end closer to the front trunnion/barrel.
+Place the front of the bottom rail of the right side rails into a vise. Refer to the video for exactly how to do this.
+Use your hands to bend the end of the rails so that the front of the bottom rail gets bent upward - refer to the video to see how I do this.
+I've found that a gap of roughtly 0.230 between the top of the bottom rail and bottom of the top rail (measured at the front of the rail) is acceptable/reliable.
+You can easily test this bend by installing the carrier and rails and slowly pushing the carrier forward. The bolt should move into the front trunnion without resistance.
+Attempt to slowly push the carrier forward while holding the gun upright, straight up, straight down, on it's left side, and on it's right side.
+If the bolt catches the front trunnion when you push the carrier forward in any of these tests, take the rails out and increase the bend.
+It is important to ensure that your bend is smooth and not too steep - you can use the vise to correct a bend that is too sharp by smoothing the bend out.

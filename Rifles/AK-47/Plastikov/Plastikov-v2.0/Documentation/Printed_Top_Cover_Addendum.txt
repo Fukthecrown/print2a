@@ -1,0 +1,7 @@
+Included in the files is a model for a printable top cover. This is an optional part, as factory top covers should work (some hand-fitting may be required on the bottom of the square cutout at the rear of the top cover).
+
+I've tested this top cover extensively. It takes a little hand-fitting for it to fit on the gun, but it holds up well when firing. Just be careful to brace underneath the square cutout with your thumb when installing it, the plastic there can bend enough that it becomes difficult to seat the top cover.
+
+I'll include the top cover without any sort of added features. You can draw up a three-striped one, add an Adidas logo, emboss 'cyka' on one side and 'blyat' on the other. Go wild.
+
+Note that this top cover won't fit well at all on factory guns. It's specfically fit around the Plastikov receiver.
