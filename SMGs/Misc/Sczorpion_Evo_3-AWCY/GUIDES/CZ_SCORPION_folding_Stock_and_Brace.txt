@@ -1,0 +1,236 @@
+###############################################################################
+#                  # scorpion evo folding stock & braces                      #
+#                                                                             #
+#                     for more information & updates:                         #
+#                          * www.arewecoolyet.wtf                             #
+#                        * keybase: are_we_cool_yet                           #
+#                                                                             #
+#                             ## release notes                                #
+# * description: CZ Scorpion EVO folding hinge endplate, stock, and tailhook  #
+#                            * version history:                               #
+#               * original release date: October 18th, 2020                   #
+#                          * core part files (5):                             #
+#                         * folding hinge endplate                            #
+#                               * cheekrest                                   #
+#                            * receiver button                                #
+#                            * cheekrest button                               #
+#                               * hinge pin                                   #
+#                    * tailhook end-assembly files (3)                        #
+#                            * tailhook - large                               #
+#                            * tailhook - small                               #
+#                          * OEM tailhook adapter                             #
+#                      * stock end-assembly files (3)                         #
+#                                 * stock                                     #
+#                              * stock lever                                  #
+#                               * stock pad                                   #
+#                                                                             #
+#                              ## attribution                                 #
+#          * CAD author(s): Vityaz, sc0rp, & insertmeow of AWCY?              #
+#                          * writeup: d33pthought                             #
+#                                                                             #
+#                             ## general notes                                #
+#      Multiple parts (core parts above) are shared between standard          #
+# stock & brace configurations. This guide will note differences between      #
+#             the different tailhook & stock end-assemblies.                  #
+#                Note that in USA attaching a stock with a                    #
+#              shorter-length barrel can violate unjust laws.                 #
+#                                                                             #
+#                          ## parts for assembly                              #
+#                                                                             #
+#                              ### core parts                                 #
+#    * **endplate hinge pin or screw** (span of 53.5mm w 5mm diameter)        #
+#                       * preferred options include:                          #
+#      * screw: M5 with 50-53.5mm length (ideally spans whole length)         #
+#  * pin: 4mm x 53mm steel rod (McMaster part # 8920K16) - cut to length      #
+#                        * less ideal but can work:                           #
+# * 3d printed pin 53.5mm included here (not recommended due to low strength) #
+#                                                                             #
+#    * **cheekrest button pin or screw** (16-20mm length, 3mm diameter)       #
+#           * e.g. Coiled Spring Pin (McMaster part # 91612A225)              #
+#       * note that protrusion of screwhead or pin may work but can           #
+#              partially engage the hinge plate button/spring                 #
+# * pin likely will provide better function but will be difficult to remove   #
+#                                                                             #
+#                                * springs                                    #
+#      * **receiver button spring** (protrudes from receiver rear &           #
+#                         keeps endplate in place)                            #
+# * 0.75 Long, 0.188 OD 0.13 ID Compression Spring (McMaster part # 9657K283) #
+# * **cheekrest button spring** (locks/releases stock/brace from endplate)    #
+# * 0.75 Long, 0.3 OD, 0.218 ID Compression Spring (stock catch spring)       #
+#                        (Mcmaster part # 9657K287)                           #
+#        * pen & printer springs might work but may be too narrow             #
+#                       or may need to be cut to fit                          #
+#  * amazon compression/extension spring kits contain springs that are        #
+#         narrower and less forceful than optimal, but will work              #
+#           (e.g. https://www.amazon.com/gp/product/B000K7M36W/)              #
+#                                                                             #
+#                 ### OEM tailhook adapter specific parts                     #
+#               * **brace position pin or screw** (20-24mm)                   #
+#                                                                             #
+#                       ### tailhook specific parts                           #
+#               * **brace position pin or screw** (20-24mm)                   #
+#      * e.g. 3m x 20mm Coiled Spring Pin (McMaster part # 91612A227)         #
+#  * a socket M3 20mm screw works (though a flat head or pin is probably      #
+#               easier re not having screw head protruding)                   #
+# * **tailhook nut** (goes in small tailhook part): 1/4x20 Nylon-Insert nut   #
+#                       (McMaster part # 90630A110)                           #
+#    * **tailhook end-screw** (secures the 2 tailhook parts together)         #
+#      1/4x20 x 1 1/8 Button Head Screw (McMaster part # 92949A835)           #
+#                                                                             #
+#                    * for *levered version* also need:                       #
+#        * **lever to brace pin** 6mmx30mm or 1/4x1.25in Roll pin             #
+#  * **brace lever spring** 1 Long, 0.125 OD, 0.081 ID compression spring     #
+#                        (McMaster part # 9657K295)                           #
+#                                                                             #
+#                         ### stock specific parts                            #
+#          * **lever to stock pin** 6mm x 16mm coiled spring pin              #
+#                       (McMaster part # 91612A191)                           #
+# * **stock magnet** 10mm OD x 5mm Deep Round Rare Earth Magnet (Optional)    #
+#        * **stock lever spring** 3/16 OD x 39/64 Length spring               #
+#          (can be found in Homedepot Everbuilt 88 spring pack)               #
+#   (for slightly stronger spring cut to length a 3/16 OD .29 WD spring)      #
+#                                                                             #
+#                       ## slicing & print settings                           #
+#                                                                             #
+#                               ### general                                   #
+#                           * filament options:                               #
+#                * ESun PLA+: nozzle 220-230C & bed 50-60C                    #
+#                           * nylonx (bitplumb)                               #
+#                      * pro-ht (v8vtwin): 210-220/60                         #
+#     * TPU if printing stock for stock pad - settings are particular         #
+#                          to printer & TPU type                              #
+#                                                                             #
+#                                ### ender                                    #
+#                              * Cura slicer                                  #
+#                              * Speed 50mm/s                                 #
+#             * solid parts (minimum 5 walls, more are better)                #
+#                           * Infill 98% gyroid                               #
+#      * thick brim on the taller print, some are tall skinny prints          #
+#                          and may want to wobble                             #
+#  * support z gap of 0.2mm though for easier and cleaner support removal     #
+#          * Use glue stick if you have trouble with bed adhesion             #
+#                                                                             #
+#                                ### prusa                                    #
+#                          * layer height: 0.15mm                             #
+#                              * infill: 100%                                 #
+#                  * supports: full with 0.1mm z-contact                      #
+#          * otherwise standard settings for 0.15mm layer height              #
+#                                                                             #
+#                            ### part-specific                                #
+#                               * cheekrest:                                  #
+#                   * orientations: vertical or tilted:                       #
+#        * vertical (easier): with trigger-end facing build plate.            #
+#                    No reports of post-print breakage                        #
+#      * ender: supports from build plate only to make easier cleanup         #
+#                     * tilted (stronger): 45 degrees                         #
+#                          * ender: tree supports                             #
+#                                                                             #
+#                              * hinge plate                                  #
+#                    * orientation: vertical or tilted                        #
+#                        * vertical (easier/faster)                           #
+#                        * tilted 45 deg (stronger)                           #
+#                                                                             #
+#                                 * button                                    #
+#                     * orientation: spring-holes down                        #
+#                       * ender: supports everywhere                          #
+#                                                                             #
+#      * pin (optional/not-recommended - for if not using metal part)         #
+#                          * vertical orientation                             #
+#                     * ender: use brim & print solid                         #
+#                                                                             #
+#                          * OEM tailhook adapter                             #
+#  * vertical with small end on surface of bed (this is to keep support       #
+#        material out of the small slot the tail hook slides into)            #
+#                            * support from bed                               #
+#                        * vertical (easier/faster)                           #
+#          * tilted 45 deg (stronger but needs more hand filing               #
+#                     and clean up from supports then)                        #
+#                      * tailhook end-assembly parts                          #
+#                * vertical with large flat surface on bed                    #
+#         (cheekrest interface & nut-pocket upwards, respectively)            #
+#                                                                             #
+#                        * stock end-assembly parts                           #
+#                 * stock: rear of stock body towards bed                     #
+#                     * lever: on side or at an angle                         #
+#             * pad: interface towards stock body towards bed                 #
+#                                                                             #
+#                            ## post-processing                               #
+#                            * support removal                                #
+#       * hole reaming - this may or may not be needed depending on           #
+#                      what screws/pins you are using                         #
+#             * hinge channels (hinge plate & cheekrest): 4mm                 #
+# * stock/brace position-set channel (tailhook end large & cheekrest): 3mm    #
+#                        * tailhook ends interface                            #
+#                     * cheekrest button channel: 3mm                         #
+#                 * regions where filing may be necessary                     #
+#                 * cheekrest to endplate hinge interfaces                    #
+# * cheekrest button to hingeplate (holds hinge closed) - filing point is     #
+#                  on the hingeplate closer to the center                     #
+# * cheekrest button recess (the button needs to easily move up and down)     #
+#                     usually clearing support residua                        #
+#    * tailhook end interfaces - both the screwless & screw/pin regions       #
+#                        * lever to end-stock/brace                           #
+#                                                                             #
+#                               ## assembly                                   #
+#                            * receiver button                                #
+#    * if rear lower receiver grip screw is already inserted, remove it       #
+#                     * place spring in button recess                         #
+#           * insert grip screw until almost into button recess               #
+#              * center spring/button in rear receiver recess                 #
+#                  * fully insert & secure the grip screw                     #
+#                                                                             #
+#                            * cheekrest button                               #
+#    * place spring into button recess & center in recess on cheekrest        #
+#        * ensure easy up/down motion with spring - file as needed            #
+#                        per above for fluid motion                           #
+#    * note: if get spring stuck use a small screwdriver & the pin-hole       #
+#                              to help release                                #
+#     * secure button within functional range of motion by inserting          #
+#                   a pin or screw into the recess hole                       #
+#            * check movement up & down with pin/screw inserted               #
+#                                                                             #
+#                       ### tailhook brace specific                           #
+#                         * tailhook end assembly                             #
+#* attach large & small tailhook end parts, starting with the screw-less side #
+#     * depending on amount of friction/stability, may need to secure         #
+#                        holed end with nut & screw                           #
+#                                                                             #
+#           * cheekrest to tailhook or OEM tailhook adapter end               #
+#              * insert tailhook end assembly into cheekrest                  #
+#                 * secure a position using a pin or screw                    #
+#    * ensure position held by pushing/pulling on tailhook end assembly       #
+#                                                                             #
+#                            ### stock specific                               #
+#                       * attach stock pad to stock                           #
+#      * test fit stock lever onto stock - file as necessary as above         #
+#                * insert stock spring into recess on stock                   #
+# * slide lever over stock guiding spring into corresponding recess on lever  #
+#                 * secure lever onto stock with stock pin                    #
+# * slide stock end assembly into cheekrest & secure with #6 screw or pin     #
+#  * optional: install magnet into round slot on right side of checkrest      #
+#                             * function test:                                #
+#* ensure that with lever depressed stock assembly slides easily in cheekrest #
+#   * ensure that when lever is not depressed that stock remains secure       #
+#           with push/pull & lateral movement of stock assembly               #
+#                                                                             #
+#                   ### brace/stock assembly to receiver                      #
+#                      * end-assembly to hinge plate                          #
+#* test fit end-assembly into endplate hinge - file as necessary as per above #
+#         * secure with pin or screw (may need to ream hole with              #
+#                 drill bit matching pin Diameter to fit)                     #
+#        * ensure hinge fully locks when close cheekrest over hinge           #
+#         * ensure hinge stays fully locked when closed by moving             #
+#                    cheekrest & end-assembly laterally                       #
+#      * ensure hinge disengages properly when push cheekrest button          #
+#               * attach assembly with endplate to receiver                   #
+#          * slide hinge plate over rear receiver with hinge open             #
+#          * use a soft mallet to tap the top of the hinge plate              #
+#                     until just above receiver button                        #
+#      * depress button with e.g. glock tool (don't hit your fingers)         #
+# * continue pushing plate down until button pops out into hinge plate recess #
+#                            * recheck function                               #
+# * ensure that wiggle/movement of brace/stock assembly does not disengage:   #
+#                          * rear receiver button                             #
+#                            * cheekrest button                               #
+#                  * position set of stock/tailhook ends                      #
+###############################################################################

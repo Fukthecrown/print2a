@@ -1,0 +1,53 @@
+###############################################################################
+#               Readme: AWCY? 351322 Free Float Handguard                     #
+#                                                                             #
+#                     for more information & updates:                         #
+#                          * www.arewecoolyet.wtf                             #
+#                        * keybase: are_we_cool_yet                           #
+#                                                                             #
+#                             ## release notes                                #
+# 	  	  * description: CZ Scorpion EVO handguard		      #
+#                            * version history:                               #
+#               * original release date: October 18th, 2020                   #
+#                                                                             #
+#                              ## attribution                                 #
+#           * CAD author(s): 351322, v8vtwin and sc0rp of AWCY?               #
+#                        * writeup: engarm and vityaz                         #
+#                                                                             #
+#                             ## general notes                                #
+#       There are 2 lengths of handguards included, one being for the         #
+#      standard 8inch scorpion barrel length and the micro for the shorter    #
+#		         Barrels available in the aftermarket.                #
+#                                                                             #
+#                          * Core printed part files (2):                     #
+#                            * standard length handguard                      #
+#                            * micro handguard                                #
+#                                                                             #
+#                             Metal Parts needed:                             #
+#                      4 each 4mm socket head x 20mm                          #
+#                      4 each 4mm button head x 12mm                          #
+#                     Custom machined mount from @351322                      #
+#                                                                             #
+#    Basic print profile suggested and proven to work well in testing         #
+#                            Esun PLA+ or Better                              #
+#                             	Nozzle 220-230C                               #
+#                                Bed 50-60C                                   #
+#                              	Speed 50mm/s                                  #
+#                  	Minimum 4+ walls the more the better                  #
+#                (I usually printed the final parts solid)                    #
+#                             Infill 98-99% gyroid                            #
+#               Supports: Recommend standard supports everywhere              #
+#           Note - This is one place we do NOT recommend tree supports        #
+#                                    	                                      #
+#                           Print Orientation:                                #
+#            Print vertically with the muzzle end toward print bed.           #
+#                                    	                                      #
+#                                Assembly:                                    #
+#    1. Clean off all supports                                                #
+#    2. Ream holes in handguard so that the M4 screw just moves freely.       #
+#    3. Install mount onto barrell trunnion using 20mm screws.                #
+#       (Be sure to alternate tightening screws so that it remains even)      # 
+#    4. Slide handguard over barrel and handguard mount.                      #
+#    5. Secure handguard to mount with 12mm screws                            #
+#    6. Enjoy your new handguard.                                             #
+###############################################################################

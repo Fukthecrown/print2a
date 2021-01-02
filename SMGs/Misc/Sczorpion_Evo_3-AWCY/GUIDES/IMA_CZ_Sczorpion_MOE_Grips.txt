@@ -1,0 +1,34 @@
+###############################################################################
+#            Readme: AWCY? Insertmeow(IMA) Scorpion MOE Grips                 #
+#                    (Non Stippled and Triple Stippled)                       #
+#   Thanks to V8Vtwin for his help with attempting to stipple the grip.       #
+#  (this model murders cad programs and took 10 times as long to stipple      #
+#                           as it did to model)                               #
+#                                                                             #
+#                              Parts needed:                                  #
+#                            	1x M4x30mm screw                              #
+#                                1x M4 nut                                    #
+#                                                                             #
+#    Basic print profile suggested and proven to work well in testing         #
+#                            Esun PLA+ or Better                              #
+#                             	Nozzle 220-230C                               #
+#                                Bed 50-60C                                   #
+#                              	Speed 50mm/s                                  #
+#                  	Minimum 4+ walls the more the better                  #
+#                (I usually printed the final parts solid)                    #
+#                          	Infill 98-99% gyroid                          #
+#       	Supports: Recommend tree supports (add support blockers if    #
+#          you like to stippled areas for cleaner surface finish)             #
+#                                    	                                      #
+#                            Print Orientation:                               #
+#               	Print grip bottom of grip toward print bed.           #
+#                                    	                                      #
+#                                Assembly:                                    #
+#    1. Ensure the grip attachment to upper interface is cleaned of supports  #
+#       (file a tiny bit if too snug).                                        #
+#    2. Ream hole so that the M4 screw just moves freely.                     #
+#    3. Install grip onto upper.                                              #
+#    4. Insert M4 nut into matching cavity on left side of grip.              #
+#    5. Insert and tighten M4 screw.                                          #
+#    6. Enjoy your new pistol grip.                                           #
+###############################################################################
