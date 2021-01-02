@@ -1,0 +1,41 @@
+
+<Experimental process>
+
+á@
+Temporarily stop 3D printing when the height of the model you are printing reaches 15mm
+
+áA
+Insert a metal reinforcing plate processed by a milling machine
+(If support material is formed inside, insert metal reinforcing plate after removal)
+
+áB
+Resume 3D printing
+
+<Enhancement advice>
+
+á@
+Design ingenuity
+When designing a reinforced rifle receiver, a shape that does not use support materials is best
+You can easily insert metal reinforcement plate
+
+áA
+Use adhesive
+Applying a fast drying adhesive to the place where the metal reinforcing plate is to be inserted will fill
+the gaps and increase the strength
+Resumes paused 3D printing after drying
+
+áB
+Annealing processing
+3D printed material does not have uniform molecular alignment direction
+If this is annealed, the molecules will align and crystallize, increasing the strength
+For example, PLA can align molecules by heating at 100 Åã for about 20 minutes
+A home oven or electric kettle can be used for heating
+If you are concerned about shape changes due to annealing,
+it is effective to insert a pin into the hole first and a block into the groove
+
+<Precautions when designing>
+
+á@
+Make a small hole in the area where the metal reinforcement plate is inserted
+to reach the outside of the model
+Without this hole, 3D CAD would not consider the model as a single part

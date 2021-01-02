@@ -1,0 +1,86 @@
+solid c
+facet normal 0.0 0.0 -1.0
+   outer loop
+      vertex 5.7 1.1999999999999997 0.0
+      vertex -5.7 -1.2000000000000002 0.0
+      vertex -5.7 1.1999999999999997 0.0
+   endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+   outer loop
+      vertex -5.7 -1.2000000000000002 0.0
+      vertex 5.7 1.1999999999999997 0.0
+      vertex 5.7 -1.2000000000000002 0.0
+   endloop
+endfacet
+facet normal 0.0 0.0 1.0
+   outer loop
+      vertex 5.7 -1.2000000000000002 3.0
+      vertex -5.7 1.1999999999999997 3.0
+      vertex -5.7 -1.2000000000000002 3.0
+   endloop
+endfacet
+facet normal 0.0 0.0 1.0
+   outer loop
+      vertex -5.7 1.1999999999999997 3.0
+      vertex 5.7 -1.2000000000000002 3.0
+      vertex 5.7 1.1999999999999997 3.0
+   endloop
+endfacet
+facet normal -1.0 0.0 0.0
+   outer loop
+      vertex -5.7 1.1999999999999997 3.0
+      vertex -5.7 -1.2000000000000002 0.0
+      vertex -5.7 -1.2000000000000002 3.0
+   endloop
+endfacet
+facet normal -1.0 0.0 0.0
+   outer loop
+      vertex -5.7 -1.2000000000000002 0.0
+      vertex -5.7 1.1999999999999997 3.0
+      vertex -5.7 1.1999999999999997 0.0
+   endloop
+endfacet
+facet normal 0.0 1.0 0.0
+   outer loop
+      vertex -5.7 1.1999999999999997 3.0
+      vertex 5.7 1.1999999999999997 0.0
+      vertex -5.7 1.1999999999999997 0.0
+   endloop
+endfacet
+facet normal 0.0 1.0 0.0
+   outer loop
+      vertex 5.7 1.1999999999999997 0.0
+      vertex -5.7 1.1999999999999997 3.0
+      vertex 5.7 1.1999999999999997 3.0
+   endloop
+endfacet
+facet normal 1.0 0.0 0.0
+   outer loop
+      vertex 5.7 1.1999999999999997 0.0
+      vertex 5.7 -1.2000000000000002 3.0
+      vertex 5.7 -1.2000000000000002 0.0
+   endloop
+endfacet
+facet normal 1.0 0.0 0.0
+   outer loop
+      vertex 5.7 -1.2000000000000002 3.0
+      vertex 5.7 1.1999999999999997 0.0
+      vertex 5.7 1.1999999999999997 3.0
+   endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+   outer loop
+      vertex 5.7 -1.2000000000000002 3.0
+      vertex -5.7 -1.2000000000000002 0.0
+      vertex 5.7 -1.2000000000000002 0.0
+   endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+   outer loop
+      vertex -5.7 -1.2000000000000002 0.0
+      vertex 5.7 -1.2000000000000002 3.0
+      vertex -5.7 -1.2000000000000002 3.0
+   endloop
+endfacet
+endsolid c

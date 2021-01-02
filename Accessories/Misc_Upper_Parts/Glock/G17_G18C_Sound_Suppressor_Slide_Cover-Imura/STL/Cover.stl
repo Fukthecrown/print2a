@@ -1,0 +1,86 @@
+solid Cover
+facet normal 0.0 0.0 1.0
+   outer loop
+      vertex 47.25 -12.999999999999988 1.2500000000000002
+      vertex -47.25 13.00000000000001 1.2500000000000002
+      vertex -47.25 -12.999999999999988 1.2500000000000002
+   endloop
+endfacet
+facet normal 0.0 0.0 1.0
+   outer loop
+      vertex -47.25 13.00000000000001 1.2500000000000002
+      vertex 47.25 -12.999999999999988 1.2500000000000002
+      vertex 47.25 13.00000000000001 1.2500000000000002
+   endloop
+endfacet
+facet normal 0.0 1.0 0.0
+   outer loop
+      vertex -47.25 13.00000000000001 1.2500000000000002
+      vertex 47.25 13.00000000000001 0.0
+      vertex -47.25 13.00000000000001 0.0
+   endloop
+endfacet
+facet normal 0.0 1.0 0.0
+   outer loop
+      vertex 47.25 13.00000000000001 0.0
+      vertex -47.25 13.00000000000001 1.2500000000000002
+      vertex 47.25 13.00000000000001 1.2500000000000002
+   endloop
+endfacet
+facet normal 1.0 0.0 0.0
+   outer loop
+      vertex 47.25 13.00000000000001 0.0
+      vertex 47.25 -12.999999999999988 1.2500000000000002
+      vertex 47.25 -12.999999999999988 0.0
+   endloop
+endfacet
+facet normal 1.0 0.0 0.0
+   outer loop
+      vertex 47.25 -12.999999999999988 1.2500000000000002
+      vertex 47.25 13.00000000000001 0.0
+      vertex 47.25 13.00000000000001 1.2500000000000002
+   endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+   outer loop
+      vertex 47.25 -12.999999999999988 1.2500000000000002
+      vertex -47.25 -12.999999999999988 0.0
+      vertex 47.25 -12.999999999999988 0.0
+   endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+   outer loop
+      vertex -47.25 -12.999999999999988 0.0
+      vertex 47.25 -12.999999999999988 1.2500000000000002
+      vertex -47.25 -12.999999999999988 1.2500000000000002
+   endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+   outer loop
+      vertex 47.25 13.00000000000001 0.0
+      vertex -47.25 -12.999999999999988 0.0
+      vertex -47.25 13.00000000000001 0.0
+   endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+   outer loop
+      vertex -47.25 -12.999999999999988 0.0
+      vertex 47.25 13.00000000000001 0.0
+      vertex 47.25 -12.999999999999988 0.0
+   endloop
+endfacet
+facet normal -1.0 0.0 0.0
+   outer loop
+      vertex -47.25 13.00000000000001 1.2500000000000002
+      vertex -47.25 -12.999999999999988 0.0
+      vertex -47.25 -12.999999999999988 1.2500000000000002
+   endloop
+endfacet
+facet normal -1.0 0.0 0.0
+   outer loop
+      vertex -47.25 -12.999999999999988 0.0
+      vertex -47.25 13.00000000000001 1.2500000000000002
+      vertex -47.25 13.00000000000001 0.0
+   endloop
+endfacet
+endsolid Cover
