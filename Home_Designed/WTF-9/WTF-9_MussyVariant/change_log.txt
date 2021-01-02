@@ -1,0 +1,23 @@
+WTF9 Change Log:
+
+
+05/18/2020 Update:
+- Updated bolt housing for both H and MV variants
+	- Minor gap patches in model
+
+- Updated non-printed parts list, endcap screw length for H and MV variants
+- Updated non-printed parts list, firing pin spring length for H and MV variants
+
+- Added pic of complete bolt assembly in Maching-Welding jigs images folder
+
+- Added pic/description of duplex nail mod for firing pin
+- Added new one piece alignment and welding jig for the bolt assembly - by parallax222
+- Updated welding jigs readme
+
+- Added another pistol grip option, MOE-style grip - by insertmeow
+- Updated accessories readme
+
+- Updated intro readme, new contributors
+
+Version Info:
+Compiled: 05/19/2020

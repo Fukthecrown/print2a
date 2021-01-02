@@ -1,0 +1,116 @@
+WTF9 Change Log:
+--------------------------------------------------------------------------
+09/28/2020 Update: 
+-mag angle is different 3 degrees counter clockwise to assist in feeding
+-upper has an integrated retractable stock and new alignment lugs
+-lower bolt and firing pin shortened by 5mm
+-bolt carrier spring hole has been moved it was offset slightly
+-it can accept the Walther p38 firing pin now
+-firing pin exit hole is smaller to stop over penetration of primer and primer blowout
+-Ejector moved forward 4mm
+--------------------------------------------------------------------------
+08/02/2020 Update:
+- MOD9
+	- updataded the bolt carrier .step and stl
+	- added instructions
+	
+
+06/16/2020 Update:
+
+WTF-9MV:
+	- Updated bolt housing model STEP/STL for better bolt to barrel fitment
+
+WTF-9H:
+	- Updated bolt housing model STEP/STL for better bolt to barrel fitment
+
+--------------------------------------------------------------------------
+
+06/09/2020 Update:
+
+- MOD9 - Release:
+	- New variant added to mega pack
+
+	- NOTE: STL orientations may not be correct for printing, refer to MV STL files for print orientations
+
+
+- WTF-9 - Hillbilly major update:
+	- New barrel retainer design
+		- Updated barrel retainer STEP/STL files
+		- Removed railed barrel retainer, only one version now with rails
+
+	- New charging handle mechanism
+		- Updated charging handle STEP/STL files
+		- Added new files for charging handle:
+			- WTF-9H_tube_plug
+			- WTF-9H_reducer
+
+	- Updated upper receiver, updated STEP/STL files
+		- Added integrated front sight
+		- Added fillets to ejector port
+		- Added integrated reducer for new charging handle mechanism
+			- Older upper receivers can be retrofitted using the new reducer to work with
+			the new charging handle and barrel retainer
+		- Compatible with older files
+
+	- Updated lower receiver
+		- Removed mag release button STEP/STL files (not used in updated design)
+		- Removed magwell sanding block from model
+		- Compatible with older files
+
+	- Added missing feed ramp STEP/STL file to Hillbilly variant directory
+
+	- Updated WTF-9H non-printed parts list
+		- New parts for updated charging handle mechanism
+	
+	-  Added Images folder to Hillbilly variant directory
+		- Pictures of carbon charging handle here to help with assembly
+
+	- NOTE:
+		- Images in the main directory of the megapack showing a fully built out WTF-9 show the older style
+		barrel retainer, pictures will be updated in the near future.
+		
+		- The STEP assembly of the Hillbilly will be updated in the near future to reflect the new files
+
+
+- WTF-9 - MV minor update:
+	- Updated charging handle to help with binding - thanks to Insertmeow
+		- Compatible with older files
+
+	- Updated lower receiver
+		- Removed mag release button STEP/STL files (not used in updated design)
+		- Removed magwell sanding block from model
+		- Compatible with older files
+
+- Updated one piece alignment and welding jig for bolt assembly
+	- Updated STL/STEP files
+
+- Updated intro document
+	- Added link to keybase team
+
+- Updated readme document formatting for consistency
+
+--------------------------------------------------------------------------
+
+05/18/2020 Update:
+
+- Updated bolt housing for both H and MV variants
+	- Minor gap patches in model
+
+- Updated non-printed parts list, endcap screw length for H and MV variants
+- Updated non-printed parts list, firing pin spring length for H and MV variants
+
+- Added pic of complete bolt assembly in Maching-Welding jigs images folder
+
+- Added pic/description of duplex nail mod for firing pin
+- Added new one piece alignment and welding jig for the bolt assembly - by parallax222
+- Updated welding jigs readme
+
+- Added another pistol grip option, MOE-style grip - by insertmeow
+- Updated accessories readme
+
+- Updated intro readme, new contributors
+
+--------------------------------------------------------------------------
+
+Version Info:
+Compiled: 06/16/2020

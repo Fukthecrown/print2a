@@ -1,0 +1,2 @@
+If you don't want to print the whole frame at high infill, the included mesh
+can overlay in Cura to provide a different infill for the main part of the frame.

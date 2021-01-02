@@ -1,0 +1,22 @@
+ruger 10/22 based 3d printable bullpup pistol prototype
+Michael Collum
+mjcollum@gmail.com
+
+A just for fun project, i had some spare 10/22 parts and wanted to make a pistol.
+since i couldn't just sslap a short barrel on an old reciever, (stupid laws) i made this to play around with.
+Initial prototype, version 1.0.
+
+Worked well enough, printed in PETG and only 25% infill.
+survived more than 1k rounds. probably would have lasted longer but i started feeding it 1400 fps high velocity rounds shortly before failure.
+cracked at rear buffer pin. Recommend higher infill, possibly ABS or ideally NYLON.
+was suprisingly a really excellent shooter,a ton of fun, and great for those wtf is that moments.
+
+Figured since i'd be building myself a version 2, i would share version 1 if anyone wants to play with it.
+
+uses the bolt, charging handle, spring,trigger pack, and magazines from a standard 10/22
+was designed around a 4.5 inch barrel but anything should work.
+trigger rods are cut down .22 cal cleaning rods.
+i removed 3.5 inches from each rod, giving them an overall length of 7.9 inches.recommend 8 inches overall, and
+hand fiting the rods during assembly. there is room for them to be a little longer.
+
+needs a 200x200mm print bed to do the reciver.
